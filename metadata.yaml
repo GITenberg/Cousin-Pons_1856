@@ -1,10 +1,13 @@
 _repo: Cousin-Pons_1856
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Marriage, Ellen
     gutenberg_agent_id: '701'
     url: http://www.gutenberg.org/2009/agents/701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -33,6 +36,8 @@ description: "Le Cousin Pons (French pronunciation: ​[lə kuzɛ̃ pɔ̃s]) is 
   \ the second Episode of Les Parents pauvres, the first Episode being La Cousine\
   \ Bette. Especially admired by Paul Bourget, it is one of the very greatest of his\
   \ novels.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1856#Cousin-Pons
 gutenberg_issued: '1999-08-01'
 gutenberg_type: Text
 identifiers:
